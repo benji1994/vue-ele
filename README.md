@@ -5,10 +5,11 @@
 * 滚动插件： Better-scroll
 * 构建工具： 基于 webpack 的 vue-cli
 * CSS 预处理器： Stylus
-
 # 重点总结
 * 小球下落动画
+
 在 cartcontrol 组件触发 addCart 事件，该事件向父组件 food emit 一个 cartadd 事件，并传入 event.target
+    
     addCart (event) {
       if (!event._constructed) return
       if (!this.food.count) {
