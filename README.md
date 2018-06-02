@@ -1,4 +1,4 @@
-<img src='readme/vue1.gif' width="30%"> <img src='readme/vue2.gif' width="30%"> <img src='readme/vue3.gif' width="30%">
+<img src='readme/vue1.gif' width="33%"> <img src='readme/vue2.gif' width="33%"> <img src='readme/vue3.gif' width="33%">
 # 技术栈
 * MVVM框架：Vue.js
 * 前端路由： Vue-router
